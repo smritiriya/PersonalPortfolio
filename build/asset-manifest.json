@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69783ade.chunk.css",
+    "main.js": "/static/js/main.fe64c63b.chunk.js",
+    "main.js.map": "/static/js/main.fe64c63b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8691016b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8691016b.js.map",
+    "static/css/2.95d02a1e.chunk.css": "/static/css/2.95d02a1e.chunk.css",
+    "static/js/2.5812b4f3.chunk.js": "/static/js/2.5812b4f3.chunk.js",
+    "static/js/2.5812b4f3.chunk.js.map": "/static/js/2.5812b4f3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.95d02a1e.chunk.css.map": "/static/css/2.95d02a1e.chunk.css.map",
+    "static/css/main.69783ade.chunk.css.map": "/static/css/main.69783ade.chunk.css.map",
+    "static/js/2.5812b4f3.chunk.js.LICENSE.txt": "/static/js/2.5812b4f3.chunk.js.LICENSE.txt",
+    "static/media/R-logo.6d417c88.png": "/static/media/R-logo.6d417c88.png",
+    "static/media/bookmyshow.b8b2fff1.png": "/static/media/bookmyshow.b8b2fff1.png",
+    "static/media/ecom.1dbb8e8a.png": "/static/media/ecom.1dbb8e8a.png",
+    "static/media/intercove.58db46d5.png": "/static/media/intercove.58db46d5.png",
+    "static/media/quiz.bb0122df.png": "/static/media/quiz.bb0122df.png",
+    "static/media/riya.16e61b72.jpg": "/static/media/riya.16e61b72.jpg",
+    "static/media/snake.e87632ae.png": "/static/media/snake.e87632ae.png",
+    "static/media/tasky.37051ea2.png": "/static/media/tasky.37051ea2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8691016b.js",
+    "static/css/2.95d02a1e.chunk.css",
+    "static/js/2.5812b4f3.chunk.js",
+    "static/css/main.69783ade.chunk.css",
+    "static/js/main.fe64c63b.chunk.js"
+  ]
+}
